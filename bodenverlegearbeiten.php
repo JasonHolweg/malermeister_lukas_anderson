@@ -32,7 +32,7 @@ require_once __DIR__ . '/partials/nav.php';
             <div class="service-page-layout">
                 <article class="prose">
 
-                    <p>Bodenverlegearbeiten gehören zum traditionellen Leistungsumfang des Malerhandwerks in Deutschland. Wer ein Zimmer streicht und tapeziert, möchte häufig gleichzeitig den Boden erneuern – und es macht wenig Sinn, dafür einen dritten Betrieb ins Haus zu holen, wenn Maler und Bodenleger ohnehin im selben Raum aufeinander aufeinander folgen müssen. Als Meisterbetrieb führen wir Bodenverlegearbeiten als vollintegrierte Leistung aus, die sich nahtlos in größere Renovierungsvorhaben einfügt.</p>
+                    <p>Bodenverlegearbeiten gehören zum traditionellen Leistungsumfang des Malerhandwerks in Deutschland. Wer ein Zimmer streicht und tapeziert, möchte häufig gleichzeitig den Boden erneuern – und es macht wenig Sinn, dafür einen dritten Betrieb ins Haus zu holen, wenn Maler und Bodenleger ohnehin im selben Raum aufeinander folgen müssen. Als Meisterbetrieb führen wir Bodenverlegearbeiten als vollintegrierte Leistung aus, die sich nahtlos in größere Renovierungsvorhaben einfügt.</p>
 
                     <p>Ein neuer Bodenbelag verändert einen Raum stärker als fast jede andere Maßnahme. Helles Laminat lässt kleine Räume größer wirken. Ein dunkler, warmer Vinylboden gibt einem Wohnzimmer Erdung. Teppich im Schlafzimmer reduziert Trittschall und macht den Raum morgens unter den Füßen angenehm warm. Die Auswahl des richtigen Belags ist deshalb keine rein technische Frage, sondern auch eine des Raumgefühls – und dabei beraten wir gerne.</p>
 
